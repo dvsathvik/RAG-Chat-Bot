@@ -10,5 +10,5 @@ Retrieval-Augmented Generation is a framework that:
 3. Generates responses based on both the user’s query and the retrieved knowledge.
 
 
-If we use the old approach to answering the query by checking whole data,can take a lot of time i fthe input data is big. 
+If we use the old approach to answer the user query by checking whole data,it can take a lot of time especially if the input data is big. 
 In RAG chatbot , we use Vector Similarlity search,, where we find all the relavent part of the user query by using vector Calculations. And we use this filtered data to answer the question.
