@@ -1,9 +1,10 @@
-langchain 
+langchain
 ipykernel
 langchain_community
 pypdf
 bs4
 pymupdf
 langchain_text_splitters
-faiss_cpu
+faiss-cpu
 langchain-groq
+langchain_ollama
